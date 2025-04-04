@@ -26,7 +26,8 @@ class LinkedList:
         else:
             temp = self.head
             values = []
-            while temp is not None:
+            # while temp is not None:
+            while temp:
                 values.append(str(temp.value))
                 temp = temp.next
             print(" -> ".join(values))
