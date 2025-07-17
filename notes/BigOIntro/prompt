@@ -1,0 +1,101 @@
+
+
+**Prompt:**
+
+> Extract detailed study notes from this video transcript on data structures.
+> For each concept, include:
+>
+> * Clear explanation
+> * Real-world examples
+> * Time/space complexity
+> * Diagrams or ASCII visuals if possible
+> * Pseudocode if any algorithms are discussed
+>   Make it structured, easy to revise, and visually engaging.
+
+
+Extract detailed study notes from this video transcript on data structures.
+For each concept, include:
+
+Clear explanation
+
+Real-world examples
+
+Time/space complexity
+
+Diagrams or ASCII visuals if possible
+
+Pseudocode if any algorithms are discussed
+Make it structured, easy to revise, and visually engaging.
+
+
+============
+
+
+### 📌 Prompt for Extracting Detailed Notes from a Data Structures Video Transcription:
+
+> **You are an expert note-taker and visualizer for computer science education.**
+> Given the transcript of a video lecture on data structures, perform the following tasks:
+>
+> 1. **Summarize each section or concept in the lecture clearly and concisely** using bullet points or numbered lists.
+> 2. **Identify key data structures** mentioned (e.g., arrays, linked lists, stacks, queues, trees, graphs, hash tables, heaps, etc.).
+> 3. For each data structure, provide:
+>
+>    * **Definition** and **how it works** (brief but technically accurate).
+>    * **Use cases in real-world applications** (e.g., how a stack is used in browser history).
+>    * **Time and space complexity** of common operations (insert, delete, search).
+>    * **Comparison with other data structures** when relevant.
+> 4. If the transcription describes any **algorithms** (e.g., DFS, BFS, Dijkstra’s, etc.), provide:
+>
+>    * **Step-by-step breakdown** of the algorithm.
+>    * **Example walkthrough** using simple inputs.
+>    * **Visual representation** (e.g., diagram or how you would draw it on a whiteboard).
+> 5. Generate **ASCII or pseudocode diagrams** where relevant (e.g., tree traversal, heap structure, queue simulation).
+> 6. Highlight any **key analogies or metaphors** the speaker used to explain complex ideas.
+> 7. Capture **any tips, mnemonics, or tricks** mentioned to remember key concepts.
+> 8. Organize the output into **sections per topic**, and include a mini **table of contents** at the top for quick navigation.
+
+
+You are an expert note-taker and visualizer for computer science education.
+Given the transcript of a video lecture on data structures, perform the following tasks:
+
+Summarize each section or concept in the lecture clearly and concisely using bullet points or numbered lists.
+
+Identify key data structures mentioned (e.g., arrays, linked lists, stacks, queues, trees, graphs, hash tables, heaps, etc.).
+
+For each data structure, provide:
+
+Definition and how it works (brief but technically accurate).
+
+Use cases in real-world applications (e.g., how a stack is used in browser history).
+
+Time and space complexity of common operations (insert, delete, search).
+
+Comparison with other data structures when relevant.
+
+If the transcription describes any algorithms (e.g., DFS, BFS, Dijkstra’s, etc.), provide:
+
+Step-by-step breakdown of the algorithm.
+
+Example walkthrough using simple inputs.
+
+Visual representation (e.g., diagram or how you would draw it on a whiteboard).
+
+Generate ASCII or pseudocode diagrams where relevant (e.g., tree traversal, heap structure, queue simulation).
+
+Highlight any key analogies or metaphors the speaker used to explain complex ideas.
+
+Capture any tips, mnemonics, or tricks mentioned to remember key concepts.
+
+Organize the output into sections per topic, and include a mini table of contents at the top for quick navigation.
+
+
+
+> Extract detailed study notes from this video transcript on data structures.
+> For each concept, include:
+>
+> * Clear explanation
+> * Real-world examples
+> * Time/space complexity
+> * Diagrams or ASCII visuals if possible
+> * Pseudocode if any algorithms are discussed
+>   Make it structured, easy to revise, and visually engaging.
