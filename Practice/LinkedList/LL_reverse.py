@@ -26,6 +26,7 @@ class LinkedList:
             self.tail = new_node
         self.length+=1
 
+    # little complex 
     def reverse(self):
         if self.head is None:
             return
@@ -39,9 +40,6 @@ class LinkedList:
             temp.next = before
             before = temp
             temp = after
-
-
-
 
 
 ll = LinkedList(10)
