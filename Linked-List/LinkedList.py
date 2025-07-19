@@ -129,6 +129,8 @@ class LinkedList:
         return removed_node
     
     def reverse(self):
+        if self.head is None:
+            return
         temp = self.head
         self.head = self.tail
         self.tail = temp
