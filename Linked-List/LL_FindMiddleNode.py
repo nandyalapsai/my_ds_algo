@@ -25,7 +25,7 @@ class LinkedList:
     def find_middle_node(self):
         slow = self.head
         fast = self.head
-        while fast and fast.next:
+        while slow and fast and fast.next:
             slow = slow.next
             fast = fast.next.next
         return slow

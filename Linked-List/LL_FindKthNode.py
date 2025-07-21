@@ -35,7 +35,7 @@ def find_kth_from_end(linked_list,k):
     return slow
 
 
-1,2,3,4,5
+# 1,2,3,4,5
 
 my_linked_list = LinkedList(1)
 my_linked_list.append(2)

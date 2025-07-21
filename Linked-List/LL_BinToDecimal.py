@@ -44,9 +44,6 @@ class LinkedList:
                 temp = temp.next
             return decimal
 
-
-
-
 # Test case 1: Binary number 110 = Decimal number 6
 linked_list = LinkedList(1)
 linked_list.append(1)
